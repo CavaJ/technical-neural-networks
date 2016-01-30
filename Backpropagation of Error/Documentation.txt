@@ -21,5 +21,4 @@ Program has a textual user interface that will help you on working with the prog
 
 NOTE: I have changed "training.dat" file to read it in more convenient way. Original can be found "traininig.dat" file. Preprocessed data can be found 
 "training_preprocessed.dat" file. I have just used "," (comma) as a delimiter and nothing more. This procedure have been also applied to the
-"training_preprocessed_for_test.dat" testing file. At the time of submission "test.dat" file was not available on the website so I used training data
-for test.
+"training_preprocessed_for_test.dat" testing file.

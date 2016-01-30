@@ -1,0 +1,15 @@
+To run the program just type:
+
+java RBFNets
+
+in the command line. Please make sure that trainRBF.pat file is in the same directory as RBFNets class file. Inside the program you can change seeds
+to get input distributions that can help you find a global optimum. Number of neurons in RBF Layer is adjustable. Professor helped me on seeds issue. 
+He stated that you can change the seeds
+to generate the different input distributions to end up with global minimum. Also he mentioned that you use random selection of patterns in each epoch
+of learning. He used true random selection in my code. But I implemented every epoch a new random sequence which is the best. Also I was calculating
+global error with respect to 999 examples. I always ended up a number that was always huge like 30, 40, 50 or more which confused me a lot.
+Professor said that global error must be divided by number of training patterns which will give me global error 
+distribution that can be 0.05, 0.025 and etc.
+
+As you run the program result.txt file will be generated automatically. He can use learning.curve file to depict a graph of gradient descent of Error
+with respect epochs. I used my friends computer and he did not have gnuplot. Otherwise I could send a picture.

@@ -1,4 +1,4 @@
-There are class files that does the job, code will work on JAVA SE 1.6 or later. 
+There are three class files that does the job, code will work on JAVA SE 1.6 or later. 
 For the 2nd and 3rd class file I have implemented perzeptron with 6 inputs including BIAS and two outputs. 
 These can be easily seen from the original "PA-A-train.dat" file.
 

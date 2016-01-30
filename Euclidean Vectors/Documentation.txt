@@ -2,4 +2,4 @@ To run the program just type the following in command line:
 
 java EuclideanVectors
 
-It will calculate asked results from the exercise sheet and show them in standard output. You can also check .png files for distributions.
+You can also check .png files for distributions.

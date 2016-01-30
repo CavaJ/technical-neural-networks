@@ -15,7 +15,7 @@ and "training_preprocessed_for_test.dat" file must be in the same directory as "
 
 java MlpBackPropagationOfError
 
-After running you can check the "result.txt" file to see the convergernce of global error.
+After running you can check the "result.txt" file to see the convergernce of global error. 
 Program has a textual user interface that will help you on working with the program.
 
 

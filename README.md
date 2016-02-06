@@ -5,7 +5,7 @@ radial-basis function nets (RBF), back-propagation of error, self organizing fea
 
 # In The Future
 
-More documented Java code will be added covering this areas: Hopfield nets, adaptive resonance theory (ART), 
+More documented Java code will be added covering these areas: Hopfield nets, adaptive resonance theory (ART), 
 learning vector quantization, recurrent networks, reinforcement learning, Q-learning, support vector machines (SVM), 
 pulse processing neural networks.
 

@@ -10,6 +10,7 @@ To run this program, go to the location where "TwoLayerPerzeptron.java" resides 
 java TwoLayerPerzeptron
 
 Program is textual user interface that will help you on working with the program.
+
 2) TwoLayerPerzeptronLearning.class => This just implements two-layer perceptron using Logistic function. Weights are generated randomly.
 Also initial weights are changing using Widrow-Hoff learning rule. Useful comments are provided in the source file TwoLayerPerzeptronLearning.java .
 To run this program, go to the location where "TwoLayerPerzeptronLearning.java" resides in cmd. And do not forget "PA-A-train.dat" must be in the
